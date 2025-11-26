@@ -10,3 +10,5 @@ This repository explains how to connect your own subdomain (e.g. `mc.example.com
 ## 📘 Guide
 Check out the included PDF for detailed setup instructions:
 `Cloudflare_Tunnel_MC_Server_Guide_Template_EN.pdf`
+
+WORK IN PROGESS
